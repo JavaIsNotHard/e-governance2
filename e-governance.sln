@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "e-governance", "e-governance.csproj", "{D12E8528-FE75-B8F6-21A2-CBFD23E3C766}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D12E8528-FE75-B8F6-21A2-CBFD23E3C766}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D12E8528-FE75-B8F6-21A2-CBFD23E3C766}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D12E8528-FE75-B8F6-21A2-CBFD23E3C766}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D12E8528-FE75-B8F6-21A2-CBFD23E3C766}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4BD92B2F-81E1-4EAD-9AE0-A5EAD4AF0796}
+	EndGlobalSection
+EndGlobal
