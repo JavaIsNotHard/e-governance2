@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("e-governance")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3f1c419e7203126e9616d7c5fb81d98225a6f2f8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+14431b2566bb8183175ee8f5f00a7598dabfc25b")]
 [assembly: System.Reflection.AssemblyProductAttribute("e-governance")]
 [assembly: System.Reflection.AssemblyTitleAttribute("e-governance")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
